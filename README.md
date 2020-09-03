@@ -6,7 +6,7 @@ https://medium.com/@p.rajeshbabu6666/deploying-wordpress-application-on-kubernet
 
 <h1>Problem Statement:</h1>
 Deploy the Wordpress application on Kubernetes and AWS using terraform
-1. Writing an Infrastructure as code using Terraform, which automatically deploys the WordPress application
+<ui> Writing an Infrastructure as code using Terraform, which automatically deploys the WordPress application</ui> 
 2. On AWS, use RDS service for the relational database for WordPress application.
 3. Deploying WordPress as a container either on top of Minikube.
 4. The WordPress application should be accessible from the public world if deployed on Minikube.
