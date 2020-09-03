@@ -2,7 +2,7 @@
 
 <h1>Deploying Wordpress Application On Kubernetes With AWS RDS Using Terraform</h1>
 <img src="https://miro.medium.com/max/1400/1*6aMa8fOkcpW1V7QzVEmPKw.png" alt="aws-rds">
-https://medium.com/@p.rajeshbabu6666/deploying-wordpress-application-on-kubernetes-with-aws-rds-using-terraform-242a67294cbb
+<u>https://medium.com/@p.rajeshbabu6666/deploying-wordpress-application-on-kubernetes-with-aws-rds-using-terraform-242a67294cbb</u>
 
 <h1>Problem Statement:</h1>
 Deploy the Wordpress application on Kubernetes and AWS using terraform
