@@ -20,7 +20,7 @@
 <li>kubectl(client program for Kubernetes cluster)</li>
 <li>Installed Minikube: You have to must install minikube before doing this task.</li>
 <li>AWS Account for launching the RDS database by using terraform.</li>
-  </ul
+  </ul>
 <h1>What is Kubernetes</h1>
 Kubernetes is a portable, extensible, open-source platform for managing containerized workloads and services. On K8S (short for Kubernetes) we create containers and launch our application on top of these containers. Containers provide isolation and everything is managed by K8S.
 <h1>What are Containers</h1>
