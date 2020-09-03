@@ -4,17 +4,15 @@
 <img src="https://miro.medium.com/max/1400/1*6aMa8fOkcpW1V7QzVEmPKw.png" alt="aws-rds">
 <u>https://medium.com/@p.rajeshbabu6666/deploying-wordpress-application-on-kubernetes-with-aws-rds-using-terraform-242a67294cbb</u>
 
-<iframe> src="https://medium.com/@p.rajeshbabu6666/deploying-wordpress-application-on-kubernetes-with-aws-rds-using-terraform-242a67294cbb" title="Deploying Wordpress Application On Kubernetes With AWS RDS Using Terraform"
-</iframe>
-
 
 <h1>Problem Statement:</h1>
-Deploy the Wordpress application on Kubernetes and AWS using terraform
-1.Writing an Infrastructure as code using Terraform, which automatically deploys the WordPress application
-2. On AWS, use RDS service for the relational database for WordPress application.
-3. Deploying WordPress as a container either on top of Minikube.
-4. The WordPress application should be accessible from the public world if deployed on Minikube.
-
+<h3>Deploy the Wordpress application on Kubernetes and AWS using terraform</h3>
+<ol>
+  <li>.Writing an Infrastructure as code using Terraform, which automatically deploys the WordPress application</li>
+<li>On AWS, use RDS service for the relational database for WordPress application.</li>
+<li>Deploying WordPress as a container either on top of Minikube.</li>
+<li>The WordPress application should be accessible from the public world if deployed on Minikube.</li>
+</ol
 <h1>Prerequisites:</h>
 <ul>
 <li>Terraform must be installed in the system.</li>
