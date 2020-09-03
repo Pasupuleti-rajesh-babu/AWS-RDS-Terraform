@@ -12,8 +12,8 @@
 <li>On AWS, use RDS service for the relational database for WordPress application.</li>
 <li>Deploying WordPress as a container either on top of Minikube.</li>
 <li>The WordPress application should be accessible from the public world if deployed on Minikube.</li>
-</ol
-<h2>Prerequisites:</h2>
+</ol>
+<h1>Prerequisites:</h1>
 <ul>
 <li>Terraform must be installed in the system.</li>
 <li>AWS CLI must be there.</li>
